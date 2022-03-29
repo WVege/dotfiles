@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = quentin.wegera@mmibordeaux.com
+	name = Quentin Wegera
